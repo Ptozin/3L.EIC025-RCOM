@@ -1,0 +1,4 @@
+bin/
+tempfiles/
+*.o
+.DS_Store
