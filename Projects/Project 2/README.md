@@ -1,4 +1,4 @@
-# (2nd Lab Work)
+# Local Network Configuration & FTP (2nd Lab Work)
 
 ## Grade: 18.1/20
 
